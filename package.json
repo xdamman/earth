@@ -1,28 +1,49 @@
 {
   "name": "cheeaun-earth",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Lim Chee Aun",
   "license": "MIT",
-  "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-preset-babili": "^0.1.4",
-    "babel-preset-env": "^1.6.0",
-    "dotenv": "^4.0.0",
-    "got": "^7.0.0",
-    "napa": "^3.0.0",
-    "paper": "^0.11.4",
-    "serve": "^5.2.4"
+  "babel": {
+    "presets": [
+      [
+        "@babel/preset-env",
+        {
+          "modules": false
+        }
+      ]
+    ]
   },
   "scripts": {
-    "start": "yarn js | serve",
-    "js": "babel assets/app.raw.js --watch --presets=env,babili --out-file assets/app.js --source-maps",
+    "start": "npm-run-all --parallel dev serve",
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "serve": "serve",
     "mapsicon": "if [ ! -d \"node_modules/mapsicon\" ]; then napa Sn3b/mapsicon; fi",
-    "checkins": "yarn foursquare && yarn geojson",
+    "checkins": "npm run foursquare && npm run geojson",
     "foursquare": "node scripts/get-checkins.js",
     "geojson": "node scripts/geojson-checkins.js",
-    "countries": "yarn mapsicon && yarn countries-svg && yarn optimize-svg && yarn simplify-svg && yarn optimize-svg",
+    "countries": "npm run mapsicon && npm run countries-svg && npm run optimize-svg && npm run simplify-svg && npm run optimize-svg",
     "countries-svg": "node scripts/generate-countries-svg.js",
     "simplify-svg": "node scripts/simplify-svg.js",
     "optimize-svg": "svgo -f data/countries/ --multipass -p 0 --config .svgo.yml"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.2.2",
+    "@babel/preset-env": "~7.2.3",
+    "autoprefixer": "~9.4.4",
+    "dotenv": "~6.2.0",
+    "got": "~9.5.0",
+    "napa": "~3.0.0",
+    "npm-run-all": "~4.1.5",
+    "paper": "~0.12.0",
+    "postcss-clean": "~1.1.0",
+    "rollup": "~1.1.0",
+    "rollup-plugin-babel": "~4.3.0",
+    "rollup-plugin-commonjs": "~9.2.0",
+    "rollup-plugin-node-resolve": "~4.0.0",
+    "rollup-plugin-postcss": "~1.6.3",
+    "rollup-plugin-uglify": "~6.0.1",
+    "serve": "~10.1.1",
+    "unfetch": "~4.0.1"
   }
 }

@@ -28,13 +28,34 @@ Development
 ACCESS_TOKEN=XXX
 ```
 
-### Wonderful `yarn` scripts
+### Wonderful `npm` scripts
 
-- `yarn checkins` - Fetch all checks-ins from Foursquare. Raw `checkins.json` is not part of repo because of privacy. `checkins[.min].geojson` files have *shortened* coordinates for privacy.
-- `yarn countries`
+- `npm run checkins` - Fetch all checks-ins from Foursquare. Raw `checkins.json` is not part of repo because of privacy. `checkins[.min].geojson` files have *shortened* coordinates for privacy.
+- `npm run countries`
   - Remember to [install SVGO first](https://github.com/svg/svgo) (globally) before running this.
   - Download a copy of country maps from [Sn3b/mapsicon](https://github.com/Sn3b/mapsicon) (Uses [napa](https://github.com/shama/napa) because it doesn't have a `package.json`). Then generate all optimized SVG countries.
-- `yarn start` - Watch and transpile `assets/app.raw.js`, and start the server.
+- `npm start` - Watch and transpile `assets/app.raw.js`, and start the server.
+
+### Deployment to [Now](https://zeit.co/now)
+
+- `now` for deploying as static site
+- `now alias` for aliasing to self-registered domain
+
+Notes
+---
+
+### Browserslist
+
+Based on [Can I Use: WebGL](http://caniuse.com/#feat=webgl).
+
+- `defaults`
+- `not ie <= 10`
+- `not Android <= 5`
+- `not BlackBerry <= 7`
+- `not ie_mob <= 10`
+- `not op_mini all`
+
+Go to [Browserslist](http://browserl.ist/?q=defaults%2C+not+ie+%3C%3D+10%2C+not+Android+%3C%3D+5%2C+not+BlackBerry+%3C%3D+7%2C+not+ie_mob+%3C%3D+10%2C+not+op_mini+all).
 
 Future
 ---
@@ -52,6 +73,7 @@ Related
 - [4sqmap](http://www.4sqmap.com/)
 - [Where Do You Go](http://www.wheredoyougo.net/)
 - [Your diary (on Foursquare)](http://diary.look4square.com/)
+- [Foursquare's old Time Machine](https://thenextweb.com/insider/2013/06/13/great-scott-foursquares-time-machine-visualizes-your-past-check-ins-and-predicts-where-youll-go-next/) ([video](https://vimeo.com/148146749))
 
 License
 ---
