@@ -16,6 +16,7 @@
   "scripts": {
     "start": "npm-run-all --parallel dev serve",
     "build": "rollup -c",
+    "deploy": "surge . map.xdamman.com",
     "dev": "rollup -c -w",
     "serve": "serve",
     "mapsicon": "if [ ! -d \"node_modules/mapsicon\" ]; then napa Sn3b/mapsicon; fi",
