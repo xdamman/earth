@@ -4,6 +4,2998 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"id": "4c669882e75ac92820dbf7da",
+				"date": 20200116,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.356,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20200116,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20200116,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c1d206763750f477eb8b767",
+				"date": 20200115,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.352,
+					50.832
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57cb04bf498e00f91746dc12",
+				"date": 20200115,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.362,
+					50.848
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20200114,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4bb4742f9af3b713bf3e8c28",
+				"date": 20200114,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.369,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5cf2893e0e3239002b98f0b8",
+				"date": 20200114,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.37,
+					50.849
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b1821a3f964a52074cd23e3",
+				"date": 20200112,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.349,
+					50.847
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "554ce233498e9583a9b986aa",
+				"date": 20200111,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.375,
+					50.864
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20200111,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4d5e2b2114963704354fc694",
+				"date": 20200111,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.392,
+					50.861
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20200111,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4fa52d07e4b0419375b4420b",
+				"date": 20200111,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.375,
+					50.871
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ba1de80f964a520cbcf37e3",
+				"date": 20200110,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.434,
+					50.806
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20200110,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20200110,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20200109,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20200109,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20200109,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20200108,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5c3f3e0216fa04002cbcc846",
+				"date": 20200108,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.368,
+					50.86
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "51540b39e4b0696e49223666",
+				"date": 20200108,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.368,
+					50.86
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20200107,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57cb04bf498e00f91746dc12",
+				"date": 20200107,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.362,
+					50.848
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20200106,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4d5ba4d66f6d6ea8b53a5cec",
+				"date": 20200106,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.359,
+					50.843
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5ae46d56c97f28002c16b7c1",
+				"date": 20200105,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.397,
+					50.851
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4d5ba4d66f6d6ea8b53a5cec",
+				"date": 20200104,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.359,
+					50.843
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c080d81bbc676b017ef45d5",
+				"date": 20200103,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.523,
+					50.727
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4bd315bacaff952135f0d3f0",
+				"date": 20200103,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.511,
+					50.73
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5bba5beefe3740002c2df6e6",
+				"date": 20200102,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.512,
+					50.73
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4beef69016290f476520f51e",
+				"date": 20200102,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.514,
+					50.729
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b6d23bbf964a52087682ce3",
+				"date": 20200102,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.323,
+					50.59
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5b229ca16eda02002c302fa0",
+				"date": 20200102,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.309,
+					50.592
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c767d16ff1fb60c1101f9a7",
+				"date": 20200102,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.309,
+					50.59
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ade0d7af964a520cd6b21e3",
+				"date": 20191231,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.345,
+					50.835
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5717e51f498ecb514531a0b0",
+				"date": 20191231,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.351,
+					50.841
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "59b3b310cf72a07b786c4dfa",
+				"date": 20191231,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.348,
+					50.838
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191231,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b27b784f964a520de8824e3",
+				"date": 20191231,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.421,
+					51.216
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4a72b543f964a52041db1fe3",
+				"date": 20191230,
+				"country": "Netherlands",
+				"cc": "NL"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.049,
+					51.65
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b27b784f964a520de8824e3",
+				"date": 20191229,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.421,
+					51.216
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ade0dbaf964a5202b6d21e3",
+				"date": 20191229,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.361,
+					50.86
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191229,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c6f923efa49a1cd8b78a3e3",
+				"date": 20191228,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.363,
+					50.837
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "51c4cb59498e94b11b97c441",
+				"date": 20191228,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.837
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191227,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191227,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5df23c0146d2b900089d72db",
+				"date": 20191227,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.356,
+					50.85
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191226,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b76add5f964a520fe572ee3",
+				"date": 20191226,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.354,
+					50.847
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c135bbfa9c220a194a1559d",
+				"date": 20191225,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.335,
+					50.601
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c135bbfa9c220a194a1559d",
+				"date": 20191225,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.335,
+					50.601
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b27b784f964a520de8824e3",
+				"date": 20191225,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.421,
+					51.216
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b27b784f964a520de8824e3",
+				"date": 20191224,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.421,
+					51.216
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191223,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c372a5393db0f4774391f92",
+				"date": 20191223,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.35,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4af5cd00f964a52005fd21e3",
+				"date": 20191223,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.353,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5df23c0146d2b900089d72db",
+				"date": 20191222,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.356,
+					50.85
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b6ede22f964a52024ce2ce3",
+				"date": 20191221,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.397,
+					50.613
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "509e72c4e4b047c85798435e",
+				"date": 20191221,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.394,
+					50.611
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5ca10503625a66002ca9d683",
+				"date": 20191221,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.388,
+					50.606
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5746d09fcd10bbc78871ed59",
+				"date": 20191221,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.391,
+					50.608
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "50f7940be4b012f99a50b530",
+				"date": 20191220,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.336,
+					50.836
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191220,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5469b75a498eb1342d04a317",
+				"date": 20191219,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.353,
+					50.836
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191218,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5df23c0146d2b900089d72db",
+				"date": 20191218,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.356,
+					50.85
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191217,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20191217,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5bacf80831ac6c002c9292b1",
+				"date": 20191216,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.395,
+					50.856
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "51377a36e4b0cb71eb3a6461",
+				"date": 20191215,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.336,
+					50.83
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191215,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b9bc56ef964a520552336e3",
+				"date": 20191215,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.613,
+					51.109
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "54045061498ef5279cb27934",
+				"date": 20191214,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.601,
+					51.082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c14cfb58aedd13a7cb55137",
+				"date": 20191214,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.6,
+					51.081
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4bbdb86d593fef3b02b80356",
+				"date": 20191214,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.612,
+					51.11
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4d4e5cd7a8fba143d52e431a",
+				"date": 20191214,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.612,
+					51.11
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191212,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5233561f0493ca4e60c83323",
+				"date": 20191212,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38,
+					50.837
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4cc91f06b3f5224b3cf7f220",
+				"date": 20191212,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.391,
+					50.862
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c372a5393db0f4774391f92",
+				"date": 20191212,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.35,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20191212,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191212,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ade0dbaf964a5202a6d21e3",
+				"date": 20191211,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.485,
+					50.901
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4afde737f964a520e72b22e3",
+				"date": 20191211,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.578,
+					40.482
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5de2a59bd2c30c0008661854",
+				"date": 20191211,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.617,
+					40.468
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "58edce0f9465dd53241fb1d5",
+				"date": 20191211,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.699,
+					40.445
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4adcda37f964a5201f3c21e3",
+				"date": 20191210,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.703,
+					40.417
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5824d078cb369f081c0a2448",
+				"date": 20191210,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.709,
+					40.419
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57d4026d498eccf682823a51",
+				"date": 20191210,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.695,
+					40.452
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4f69fdc9e4b0106591a180e0",
+				"date": 20191210,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.695,
+					40.451
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5de2a59bd2c30c0008661854",
+				"date": 20191210,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.617,
+					40.468
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4df701ad483b96f73159134c",
+				"date": 20191210,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.692,
+					40.445
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5d76366f7f63580007a3d60b",
+				"date": 20191210,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.693,
+					40.45
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "58eb605fe9dad13680bf0fe0",
+				"date": 20191209,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.693,
+					40.45
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5b27ed9c3f5c69002b822ad9",
+				"date": 20191209,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.698,
+					40.425
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4fbe6cafe4b099c7d5ae69be",
+				"date": 20191209,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.698,
+					40.424
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b77030df964a52061742ee3",
+				"date": 20191209,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.697,
+					40.426
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b5d329ef964a520405629e3",
+				"date": 20191208,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.69,
+					40.406
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4adcda60f964a520974421e3",
+				"date": 20191208,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.141,
+					41.38
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "56070c6e498edccb53809b96",
+				"date": 20191208,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.165,
+					41.387
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4adcda50f964a520274121e3",
+				"date": 20191208,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.17,
+					41.387
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ba8c9adf964a520deee39e3",
+				"date": 20191208,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.189,
+					41.394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "50c8c0b3e4b092bb3036fbd5",
+				"date": 20191207,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.172,
+					41.398
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4bafc46af964a520251f3ce3",
+				"date": 20191207,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.181,
+					41.387
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "51d81003498ee58ce9cb026f",
+				"date": 20191207,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.198,
+					41.385
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ba8c9adf964a520deee39e3",
+				"date": 20191207,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.189,
+					41.394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4bc5802d4a9aa5930190067b",
+				"date": 20191207,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.183,
+					41.394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4df338aa483bdb5e13737102",
+				"date": 20191207,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.895,
+					42.167
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4bc5802d4a9aa5930190067b",
+				"date": 20191130,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.183,
+					41.394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4baf488cf964a5207cf53be3",
+				"date": 20191130,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.207,
+					41.394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "555f2357498ee6528074710b",
+				"date": 20191130,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.195,
+					41.399
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c0d3610d64c0f47665e265d",
+				"date": 20191129,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.193,
+					41.38
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "55aaa570498e61368347efa9",
+				"date": 20191129,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.19,
+					41.391
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4adcda60f964a520974421e3",
+				"date": 20191129,
+				"country": "Spain",
+				"cc": "ES"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.141,
+					41.38
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b3013cef964a520a1f524e3",
+				"date": 20191129,
+				"country": "France",
+				"cc": "FR"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.86,
+					45.761
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "50f7940be4b012f99a50b530",
+				"date": 20191129,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.336,
+					50.836
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b4aedcff964a520ed8f26e3",
+				"date": 20191129,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.334,
+					50.837
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4fcefb4ae4b0a25461600022",
+				"date": 20191129,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b49da64f964a520af7426e3",
+				"date": 20191128,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.567,
+					50.625
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4e1f3ea61838e9f93a49daa6",
+				"date": 20191128,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.572,
+					50.643
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b5b2fe8f964a520a3e928e3",
+				"date": 20191128,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.568,
+					50.644
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "56eaed8e498e0c20d8bac9f6",
+				"date": 20191128,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.546,
+					50.942
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191128,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57cb04bf498e00f91746dc12",
+				"date": 20191128,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.362,
+					50.848
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20191128,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191127,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191127,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "55045c58498e066081bc93d3",
+				"date": 20191127,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.35,
+					50.839
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5777bc68498ecac8cf4b7d62",
+				"date": 20191127,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.355,
+					50.835
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5469b75a498eb1342d04a317",
+				"date": 20191127,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.353,
+					50.836
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191127,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b49e022f964a520357526e3",
+				"date": 20191126,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.465,
+					50.841
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191125,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c6f923efa49a1cd8b78a3e3",
+				"date": 20191125,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.363,
+					50.837
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "51c4cb59498e94b11b97c441",
+				"date": 20191125,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.837
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5c641d8c6dcf04002c16eb1c",
+				"date": 20191125,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.343,
+					50.824
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "51377a36e4b0cb71eb3a6461",
+				"date": 20191125,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.336,
+					50.83
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191124,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5816123738fac24bb5268a38",
+				"date": 20191124,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.365,
+					50.835
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5d1ba4782f2fcc002321273a",
+				"date": 20191124,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.365,
+					50.835
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "55046602498e6083ce551038",
+				"date": 20191123,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38,
+					50.841
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5179926ee4b001f74892ceb0",
+				"date": 20191122,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.373,
+					50.693
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4d3f0c886e0aa1cd338afa2c",
+				"date": 20191122,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.381,
+					50.837
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191121,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c8cf9445e048cfaad60d1cd",
+				"date": 20191120,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.409,
+					50.807
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20191120,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191120,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191119,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "50c6d7d6e4b0480110867159",
+				"date": 20191119,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.847
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20191119,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57cb04bf498e00f91746dc12",
+				"date": 20191118,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.362,
+					50.848
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191118,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5dd124f39688f200088fa6be",
+				"date": 20191117,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.376,
+					50.861
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191116,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5b4a3d09c0af57002c4c571f",
+				"date": 20191115,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.348,
+					50.849
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "511bc2eb164891e1f0e9663e",
+				"date": 20191115,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.353,
+					50.852
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "594a92fcfc9e9420b7d510bc",
+				"date": 20191115,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.348,
+					50.85
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ca7a1bb44a8224bc9610f40",
+				"date": 20191114,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.34,
+					50.85
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191113,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20191113,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191113,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191112,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57cb04bf498e00f91746dc12",
+				"date": 20191112,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.362,
+					50.848
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b7d3d11f964a52022b42fe3",
+				"date": 20191110,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.359,
+					50.858
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4af31947f964a520a1ea21e3",
+				"date": 20191110,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.347,
+					50.859
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5dc54c405841d40008ed59c8",
+				"date": 20191108,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38,
+					50.859
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4cd525b994848cfa5762e4b1",
+				"date": 20191107,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.359,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191107,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20191106,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191106,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191106,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57cb04bf498e00f91746dc12",
+				"date": 20191106,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.362,
+					50.848
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b6f0474f964a52030d72ce3",
+				"date": 20191105,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.372,
+					50.828
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5968ed48dec1d613a5b899ee",
+				"date": 20191105,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.83
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57debac1498e73334e20a6b1",
+				"date": 20191104,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377,
+					50.857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "593a78e12a7ab65ad55def21",
+				"date": 20191104,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.358,
+					50.845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4eca225030f8b09c0f07a4b6",
+				"date": 20191104,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.371,
+					50.863
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5266a5da11d28aadc4f4413c",
+				"date": 20191104,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.372,
+					50.861
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "549a9428498e8fb585530560",
+				"date": 20191104,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.372,
+					50.861
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b6d23bbf964a52087682ce3",
+				"date": 20191102,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.323,
+					50.59
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "589cb839bbec6650cb2a76e6",
+				"date": 20191101,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5139a8e5e4b06f6611b45b94",
+				"date": 20191101,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.355,
+					50.847
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4fcefb4ae4b0a25461600022",
+				"date": 20191101,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.357,
+					50.846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b27b784f964a520de8824e3",
+				"date": 20191101,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.421,
+					51.216
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"id": "4d42af8f1629b60ce2559989",
 				"date": 20191030,
 				"country": "Belgium",
@@ -30,6 +3022,22 @@
 				"coordinates": [
 					4.421,
 					51.216
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4bf3d366706e20a14a93a898",
+				"date": 20191029,
+				"country": "Belgium",
+				"cc": "BE"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.343,
+					50.857
 				]
 			}
 		},
@@ -2044,7 +5052,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -2076,7 +5084,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -2108,8 +5116,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.14,
-					41.379
+					2.141,
+					41.38
 				]
 			}
 		},
@@ -2460,8 +5468,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.14,
-					41.379
+					2.141,
+					41.38
 				]
 			}
 		},
@@ -2700,8 +5708,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.14,
-					41.379
+					2.141,
+					41.38
 				]
 			}
 		},
@@ -2732,8 +5740,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.14,
-					41.379
+					2.141,
+					41.38
 				]
 			}
 		},
@@ -5564,7 +8572,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -6796,8 +9804,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					3.076,
-					50.64
+					3.075,
+					50.639
 				]
 			}
 		},
@@ -6828,7 +9836,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -6892,7 +9900,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -7620,7 +10628,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "5c52b3f78d0a53002c636f89",
+				"id": "5c91087ada5e560039fc9a2d",
 				"date": 20190614,
 				"country": "Belgium",
 				"cc": "BE"
@@ -8876,7 +11884,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -9164,7 +12172,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.373,
+					4.372,
 					50.85
 				]
 			}
@@ -10876,7 +13884,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -11228,8 +14236,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.432,
-					37.8
+					-122.433,
+					37.801
 				]
 			}
 		},
@@ -11548,8 +14556,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.422,
-					37.76
+					-122.424,
+					37.765
 				]
 			}
 		},
@@ -11788,8 +14796,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.422,
-					37.76
+					-122.424,
+					37.765
 				]
 			}
 		},
@@ -12237,7 +15245,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -12620,8 +15628,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.422,
-					37.76
+					-122.424,
+					37.765
 				]
 			}
 		},
@@ -12812,7 +15820,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -13308,7 +16316,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -14140,7 +17148,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -14716,7 +17724,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -16140,7 +19148,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -16188,7 +19196,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.371,
+					4.37,
 					50.844
 				]
 			}
@@ -17005,7 +20013,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -17644,7 +20652,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.009,
+					-74.008,
 					40.724
 				]
 			}
@@ -17660,7 +20668,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -17709,7 +20717,7 @@
 				"type": "Point",
 				"coordinates": [
 					-74.001,
-					40.731
+					40.732
 				]
 			}
 		},
@@ -17789,7 +20797,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -18956,7 +21964,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -19100,7 +22108,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -22909,7 +25917,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -23197,7 +26205,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -23485,7 +26493,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -23677,7 +26685,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -25180,7 +28188,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					14.495,
+					14.496,
 					35.849
 				]
 			}
@@ -25420,7 +28428,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					14.495,
+					14.496,
 					35.849
 				]
 			}
@@ -25500,7 +28508,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -25612,8 +28620,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.965,
-					40.755
+					-73.967,
+					40.756
 				]
 			}
 		},
@@ -27708,7 +30716,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					13.732,
+					13.733,
 					51.04
 				]
 			}
@@ -29020,7 +32028,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -29180,7 +32188,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -29500,7 +32508,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -30093,7 +33101,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -31292,7 +34300,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -31357,7 +34365,7 @@
 				"type": "Point",
 				"coordinates": [
 					-73.984,
-					40.765
+					40.764
 				]
 			}
 		},
@@ -31756,7 +34764,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -32444,8 +35452,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.357,
-					50.848
+					4.358,
+					50.846
 				]
 			}
 		},
@@ -32764,7 +35772,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -32925,7 +35933,7 @@
 				"type": "Point",
 				"coordinates": [
 					-73.983,
-					40.768
+					40.767
 				]
 			}
 		},
@@ -33100,7 +36108,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -33308,7 +36316,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -34716,8 +37724,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.615,
-					50.67
+					4.611,
+					50.668
 				]
 			}
 		},
@@ -35084,7 +38092,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -35244,7 +38252,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -35628,7 +38636,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -35724,7 +38732,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -36556,7 +39564,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -36748,7 +39756,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -37388,7 +40396,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.009,
+					-74.008,
 					40.724
 				]
 			}
@@ -37660,7 +40668,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -39772,7 +42780,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -40829,7 +43837,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -40877,7 +43885,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -41612,7 +44620,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -42108,7 +45116,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -43036,7 +46044,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -43404,7 +46412,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -43708,7 +46716,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -45628,7 +48636,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -45900,7 +48908,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -49548,7 +52556,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -49852,7 +52860,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -50156,7 +53164,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -50460,7 +53468,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -51708,7 +54716,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -51964,7 +54972,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -52156,7 +55164,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -52476,7 +55484,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.005,
+					-74.006,
 					40.742
 				]
 			}
@@ -53084,8 +56092,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.001,
-					40.734
+					-74,
+					40.73
 				]
 			}
 		},
@@ -53404,7 +56412,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -54284,7 +57292,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -54412,7 +57420,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -54476,7 +57484,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -54540,7 +57548,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -54828,7 +57836,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -55372,7 +58380,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -55564,7 +58572,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -58700,7 +61708,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -59084,7 +62092,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-97.667,
+					-97.666,
 					30.202
 				]
 			}
@@ -59228,7 +62236,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-97.667,
+					-97.666,
 					30.202
 				]
 			}
@@ -59612,7 +62620,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.371,
+					4.37,
 					50.844
 				]
 			}
@@ -60108,7 +63116,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -62236,7 +65244,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -62444,7 +65452,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -62460,7 +65468,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.005,
+					-74.006,
 					40.742
 				]
 			}
@@ -62540,7 +65548,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -62684,7 +65692,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -63436,7 +66444,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -63468,7 +66476,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -63564,7 +66572,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -64380,7 +67388,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -64428,7 +67436,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -64988,7 +67996,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-8.672,
+					-8.671,
 					41.237
 				]
 			}
@@ -65580,7 +68588,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -65644,7 +68652,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -65788,7 +68796,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -65820,7 +68828,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.99,
+					-73.989,
 					40.74
 				]
 			}
@@ -66156,7 +69164,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -66348,7 +69356,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -66540,7 +69548,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.005,
+					-74.006,
 					40.742
 				]
 			}
@@ -66716,7 +69724,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -67372,7 +70380,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -71612,7 +74620,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -71868,7 +74876,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -72028,7 +75036,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.999,
+					-74,
 					40.725
 				]
 			}
@@ -72652,7 +75660,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -73213,7 +76221,7 @@
 				"type": "Point",
 				"coordinates": [
 					-73.973,
-					40.763
+					40.764
 				]
 			}
 		},
@@ -73916,7 +76924,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.612,
+					-79.614,
 					43.681
 				]
 			}
@@ -74044,8 +77052,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.422,
-					37.76
+					-122.424,
+					37.765
 				]
 			}
 		},
@@ -74204,7 +77212,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.612,
+					-79.614,
 					43.681
 				]
 			}
@@ -74764,8 +77772,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.917,
-					51.222
+					2.915,
+					51.223
 				]
 			}
 		},
@@ -75820,7 +78828,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.031,
+					-74.029,
 					40.743
 				]
 			}
@@ -76124,7 +79132,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.031,
+					-74.029,
 					40.743
 				]
 			}
@@ -76829,7 +79837,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -76924,7 +79932,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -78132,7 +81140,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "53c5393c498eaaf9ec4b2caf",
+				"id": "4d9105f96174a09392ecffe3",
 				"date": 20160624,
 				"country": "United States",
 				"cc": "US"
@@ -79484,8 +82492,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					3.076,
-					50.64
+					3.075,
+					50.639
 				]
 			}
 		},
@@ -79884,7 +82892,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -80316,7 +83324,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.031,
+					-74.029,
 					40.743
 				]
 			}
@@ -80444,7 +83452,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -80588,7 +83596,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -80716,7 +83724,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -81052,7 +84060,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -81244,7 +84252,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -81293,7 +84301,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -81309,7 +84317,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -81820,7 +84828,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-74.031,
+					-74.029,
 					40.743
 				]
 			}
@@ -82189,7 +85197,7 @@
 				"type": "Point",
 				"coordinates": [
 					-73.973,
-					40.763
+					40.764
 				]
 			}
 		},
@@ -82220,7 +85228,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -82732,8 +85740,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.422,
-					37.76
+					-122.424,
+					37.765
 				]
 			}
 		},
@@ -83036,8 +86044,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.422,
-					37.76
+					-122.424,
+					37.765
 				]
 			}
 		},
@@ -83276,7 +86284,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -83309,7 +86317,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.099,
-					37.422
+					37.423
 				]
 			}
 		},
@@ -83660,7 +86668,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -83949,7 +86957,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.413,
-					37.776
+					37.777
 				]
 			}
 		},
@@ -83964,7 +86972,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -84092,7 +87100,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -84412,7 +87420,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.991,
+					-73.992,
 					40.757
 				]
 			}
@@ -84540,8 +87548,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.397,
-					37.796
+					-122.396,
+					37.795
 				]
 			}
 		},
@@ -84700,7 +87708,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -85276,7 +88284,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -85836,7 +88844,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -86828,7 +89836,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-120.235,
+					-120.234,
 					39.197
 				]
 			}
@@ -87004,7 +90012,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.405,
+					-122.404,
 					37.772
 				]
 			}
@@ -87244,7 +90252,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.392,
+					-122.393,
 					37.788
 				]
 			}
@@ -88141,7 +91149,7 @@
 				"type": "Point",
 				"coordinates": [
 					54.644,
-					24.428
+					24.429
 				]
 			}
 		},
@@ -88221,7 +91229,7 @@
 				"type": "Point",
 				"coordinates": [
 					54.644,
-					24.428
+					24.429
 				]
 			}
 		},
@@ -88396,7 +91404,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -88477,7 +91485,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -88557,7 +91565,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -89196,8 +92204,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.149,
-					37.484
+					-122.15,
+					37.483
 				]
 			}
 		},
@@ -89933,7 +92941,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.099,
-					37.422
+					37.423
 				]
 			}
 		},
@@ -90604,8 +93612,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.479,
-					37.855
+					-122.48,
+					37.858
 				]
 			}
 		},
@@ -93164,7 +96172,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-43.211,
+					-43.21,
 					-22.952
 				]
 			}
@@ -93260,8 +96268,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-43.189,
-					-22.967
+					-43.19,
+					-22.97
 				]
 			}
 		},
@@ -93420,7 +96428,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-46.481,
+					-46.48,
 					-23.426
 				]
 			}
@@ -93852,7 +96860,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-46.481,
+					-46.48,
 					-23.426
 				]
 			}
@@ -94884,7 +97892,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "4c15ef4eb7b9c92887a4ad37",
+				"id": "5ddd231fbb5dd00007374215",
 				"date": 20150629,
 				"country": "South Africa",
 				"cc": "ZA"
@@ -94893,7 +97901,7 @@
 				"type": "Point",
 				"coordinates": [
 					28.231,
-					-26.133
+					-26.134
 				]
 			}
 		},
@@ -96077,7 +99085,7 @@
 				"type": "Point",
 				"coordinates": [
 					114.168,
-					22.297
+					22.296
 				]
 			}
 		},
@@ -98188,7 +101196,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.405,
+					-122.404,
 					37.772
 				]
 			}
@@ -98652,7 +101660,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -99756,7 +102764,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -100508,7 +103516,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.402,
+					-122.401,
 					37.792
 				]
 			}
@@ -100589,7 +103597,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -102172,7 +105180,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.397,
+					-122.396,
 					37.799
 				]
 			}
@@ -102364,7 +105372,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-80.002,
+					-80.001,
 					40.441
 				]
 			}
@@ -102396,7 +105404,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-80.944,
+					-80.943,
 					35.22
 				]
 			}
@@ -104109,7 +107117,7 @@
 				"type": "Point",
 				"coordinates": [
 					-58.367,
-					-34.603
+					-34.604
 				]
 			}
 		},
@@ -104669,7 +107677,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -105421,7 +108429,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -105549,7 +108557,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -105581,7 +108589,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -105916,7 +108924,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.579,
+					-122.58,
 					38.578
 				]
 			}
@@ -105932,7 +108940,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.637,
+					-122.638,
 					38.95
 				]
 			}
@@ -107501,7 +110509,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -108732,7 +111740,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.435,
+					-122.434,
 					37.776
 				]
 			}
@@ -108780,8 +111788,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.479,
-					37.855
+					-122.48,
+					37.858
 				]
 			}
 		},
@@ -110077,7 +113085,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -111261,7 +114269,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -112125,7 +115133,7 @@
 				"type": "Point",
 				"coordinates": [
 					-0.126,
-					51.532
+					51.531
 				]
 			}
 		},
@@ -112172,7 +115180,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -112300,7 +115308,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					2.355,
+					2.356,
 					48.881
 				]
 			}
@@ -112556,7 +115564,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.533,
+					-122.534,
 					38.068
 				]
 			}
@@ -115181,7 +118189,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.413,
-					37.768
+					37.769
 				]
 			}
 		},
@@ -115789,7 +118797,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -118605,7 +121613,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -119213,7 +122221,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.417,
-					37.776
+					37.777
 				]
 			}
 		},
@@ -120493,7 +123501,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.417,
-					37.776
+					37.777
 				]
 			}
 		},
@@ -120876,8 +123884,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-119.94,
-					38.935
+					-119.941,
+					38.951
 				]
 			}
 		},
@@ -121773,7 +124781,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -122461,7 +125469,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.417,
-					37.776
+					37.777
 				]
 			}
 		},
@@ -122637,7 +125645,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -123837,7 +126845,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -124540,7 +127548,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.405,
+					-122.404,
 					37.772
 				]
 			}
@@ -125757,7 +128765,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.417,
-					37.776
+					37.777
 				]
 			}
 		},
@@ -126124,7 +129132,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.441,
+					-122.442,
 					37.783
 				]
 			}
@@ -126476,7 +129484,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.441,
+					-122.442,
 					37.783
 				]
 			}
@@ -126684,7 +129692,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.441,
+					-122.442,
 					37.783
 				]
 			}
@@ -126796,7 +129804,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.441,
+					-122.442,
 					37.783
 				]
 			}
@@ -126813,7 +129821,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.413,
-					37.768
+					37.769
 				]
 			}
 		},
@@ -128621,7 +131629,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -129932,7 +132940,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					4.362,
+					4.361,
 					50.86
 				]
 			}
@@ -130173,7 +133181,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -130189,7 +133197,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -130445,7 +133453,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -131389,7 +134397,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.427,
-					37.759
+					37.76
 				]
 			}
 		},
@@ -132013,7 +135021,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.417,
-					37.776
+					37.777
 				]
 			}
 		},
@@ -132284,7 +135292,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-157.921,
+					-157.92,
 					21.332
 				]
 			}
@@ -132300,7 +135308,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-156.437,
+					-156.438,
 					20.893
 				]
 			}
@@ -132652,7 +135660,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-156.437,
+					-156.438,
 					20.893
 				]
 			}
@@ -132748,8 +135756,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.267,
-					38.35
+					-122.265,
+					38.349
 				]
 			}
 		},
@@ -132764,8 +135772,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.267,
-					38.35
+					-122.265,
+					38.349
 				]
 			}
 		},
@@ -132780,8 +135788,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.267,
-					38.35
+					-122.265,
+					38.349
 				]
 			}
 		},
@@ -132812,8 +135820,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.267,
-					38.35
+					-122.265,
+					38.349
 				]
 			}
 		},
@@ -133036,8 +136044,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.267,
-					38.35
+					-122.265,
+					38.349
 				]
 			}
 		},
@@ -133452,8 +136460,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.267,
-					38.35
+					-122.265,
+					38.349
 				]
 			}
 		},
@@ -133597,7 +136605,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.417,
-					37.776
+					37.777
 				]
 			}
 		},
@@ -133740,8 +136748,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.267,
-					38.35
+					-122.265,
+					38.349
 				]
 			}
 		},
@@ -134045,7 +137053,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.417,
-					37.776
+					37.777
 				]
 			}
 		},
@@ -134364,8 +137372,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.267,
-					38.35
+					-122.265,
+					38.349
 				]
 			}
 		},
@@ -137756,7 +140764,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.43,
+					-122.431,
 					37.785
 				]
 			}
@@ -137772,7 +140780,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.435,
+					-122.434,
 					37.776
 				]
 			}
@@ -138444,7 +141452,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-97.667,
+					-97.666,
 					30.202
 				]
 			}
@@ -138460,7 +141468,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-97.667,
+					-97.666,
 					30.202
 				]
 			}
@@ -139260,7 +142268,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-97.667,
+					-97.666,
 					30.202
 				]
 			}
@@ -141837,7 +144845,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -142573,7 +145581,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -142660,7 +145668,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"id": "437e6b00f964a520b72a1fe3",
+				"id": "4b819f25f964a5204ab330e3",
 				"date": 20111204,
 				"country": "United States",
 				"cc": "US"
@@ -142668,7 +145676,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.422,
+					-122.423,
 					37.806
 				]
 			}
@@ -144493,7 +147501,7 @@
 				"type": "Point",
 				"coordinates": [
 					-87.901,
-					41.977
+					41.976
 				]
 			}
 		},
@@ -145484,7 +148492,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.43,
+					-122.431,
 					37.785
 				]
 			}
@@ -146172,7 +149180,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.978,
+					-73.977,
 					40.761
 				]
 			}
@@ -146460,8 +149468,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-117.201,
-					32.732
+					-117.202,
+					32.733
 				]
 			}
 		},
@@ -146556,8 +149564,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-117.201,
-					32.732
+					-117.202,
+					32.733
 				]
 			}
 		},
@@ -147101,7 +150109,7 @@
 				"type": "Point",
 				"coordinates": [
 					-115.166,
-					36.127
+					36.126
 				]
 			}
 		},
@@ -147117,7 +150125,7 @@
 				"type": "Point",
 				"coordinates": [
 					-115.166,
-					36.127
+					36.126
 				]
 			}
 		},
@@ -147900,7 +150908,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-80.944,
+					-80.943,
 					35.22
 				]
 			}
@@ -147916,7 +150924,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-97.667,
+					-97.666,
 					30.202
 				]
 			}
@@ -148220,7 +151228,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-97.667,
+					-97.666,
 					30.202
 				]
 			}
@@ -148236,7 +151244,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-97.667,
+					-97.666,
 					30.202
 				]
 			}
@@ -148620,8 +151628,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-119.94,
-					38.935
+					-119.941,
+					38.951
 				]
 			}
 		},
@@ -148685,7 +151693,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -148797,7 +151805,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.413,
-					37.768
+					37.769
 				]
 			}
 		},
@@ -149869,7 +152877,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -151165,7 +154173,7 @@
 				"type": "Point",
 				"coordinates": [
 					-122.402,
-					37.786
+					37.787
 				]
 			}
 		},
@@ -151372,7 +154380,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.398,
+					-122.399,
 					37.775
 				]
 			}
@@ -151708,7 +154716,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-73.993,
+					-73.994,
 					40.728
 				]
 			}
@@ -152236,7 +155244,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.398,
+					-122.399,
 					37.775
 				]
 			}
@@ -153628,7 +156636,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.414,
+					-122.415,
 					37.779
 				]
 			}
@@ -153948,7 +156956,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-77.043,
+					-77.042,
 					38.854
 				]
 			}
@@ -155228,7 +158236,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.435,
+					-122.434,
 					37.776
 				]
 			}
@@ -155548,7 +158556,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.435,
+					-122.434,
 					37.776
 				]
 			}
@@ -155580,7 +158588,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.435,
+					-122.434,
 					37.776
 				]
 			}
@@ -155612,7 +158620,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-122.435,
+					-122.434,
 					37.776
 				]
 			}
